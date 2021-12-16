@@ -1,0 +1,30 @@
+[package]
+name = "eric1"
+version = "0.1.0"
+authors = ["elvq <eric.levanquyen@gmail.com>"]
+edition = "2018"
+
+default-run="iter3"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+actix-web="3.1.0"
+actix-rt="1.1.1"
+#Data serialiezation library
+serde={version= "1.0.110", features =["derive"]}
+
+
+[[bin]]
+
+name="basic-server"
+
+[[bin]]
+
+name="iter1"
+
+
+[[bin]]
+
+name="iter2"

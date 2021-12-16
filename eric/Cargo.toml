@@ -1,0 +1,14 @@
+[workspace]
+
+members=["eric1", "eric2", "eric3", "eric4"]
+
+
+[package]
+name = "eric"
+version = "0.1.0"
+authors = ["elvq <eric.levanquyen@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

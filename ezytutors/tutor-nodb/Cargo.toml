@@ -1,0 +1,24 @@
+
+[package]
+name = "tutor-nodb"
+version = "0.1.0"
+authors = ["elvq <eric.levanquyen@gmail.com>"]
+edition = "2018"
+
+default-run="tutor-service"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+actix-web="3.1.0"
+
+actix-rt="1.1.1"
+
+[[bin]]
+
+name="basic-server"
+
+[[bin]]
+
+name="tutor-service"
