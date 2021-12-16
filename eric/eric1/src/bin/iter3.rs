@@ -4,12 +4,14 @@ use std::io;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Info {
-    username: i32,
+    username: String,
+    job     : String,
 }
 
 /// deserialize `Info` from request's body
 async fn index(info: web::Json<Info>) -> String {
-    format!("Welcome {}!", info.username)
+    println!("Bien reçu!!");
+    format!("Welcome {}!. You are a {}.", info.username, info.job)
 }
 
 //New method used

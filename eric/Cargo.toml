@@ -1,6 +1,6 @@
 [workspace]
 
-members=["eric1", "eric2", "eric3", "eric4"]
+members=["eric1", "eric2", "eric3", "eric4", "eric5"]
 
 
 [package]
