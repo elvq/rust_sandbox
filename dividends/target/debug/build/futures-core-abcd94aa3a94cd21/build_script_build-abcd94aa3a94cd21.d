@@ -1,0 +1,8 @@
+/home/eric/rust_sandbox/dividends/target/debug/build/futures-core-abcd94aa3a94cd21/build_script_build-abcd94aa3a94cd21: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/build.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/no_atomic_cas.rs
+
+/home/eric/rust_sandbox/dividends/target/debug/build/futures-core-abcd94aa3a94cd21/build_script_build-abcd94aa3a94cd21.d: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/build.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/no_atomic_cas.rs
+
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/build.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/no_atomic_cas.rs:
+
+# env-dep:CARGO_PKG_NAME=futures-core

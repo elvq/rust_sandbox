@@ -5,6 +5,7 @@ authors = ["elvq <eric.levanquyen@gmail.com>"]
 edition = "2018"
 
 
+<<<<<<< HEAD
 default-run="iter1"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -31,3 +32,30 @@ openssl = { version = "0.10", features = ["vendored"] }
 [[bin]]
 
 name="iter1"
+=======
+
+default-run="iter1"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+actix-web = "^3.3"
+actix-rt = "1.1.1"
+
+dotenv = "0.15.0"
+
+sqlx = { version = "0.3.5", default_features = false, features = ["postgres", "runtime-tokio","macros", "chrono"]}
+
+chrono = {version = "0.4.11", features = ["serde"]}
+
+serde = {version = "1.0.110", features = ["derive"]}
+
+openssl = {version = "0.10", features = ["vendored"]}
+
+
+
+
+>>>>>>> 2d0cff52409aaa4a8460e7b4a712f3a8197e2348
