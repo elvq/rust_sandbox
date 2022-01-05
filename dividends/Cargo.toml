@@ -4,6 +4,30 @@ version = "0.1.0"
 authors = ["elvq <eric.levanquyen@gmail.com>"]
 edition = "2018"
 
+
+default-run="iter1"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[dependencies]
+[dependencies] 
+
+sqlx={version = "0.3.5", default-features = false, features =["postgres", "runtime-tokio", "macros", "chrono"]}
+
+
+
+actix-web="^3.3"
+actix-rt="1.1.0"
+
+dotenv="0.15.0"
+
+
+serde = { version = "1.0.11", features = ["derive"]}
+
+chrono = {version ="0.4.11", features = ["serde"]}
+
+
+# Openssl for build (if openssl is not already installed on the dev server)
+openssl = { version = "0.10", features = ["vendored"] }
+
+[[bin]]
+
+name="iter1"

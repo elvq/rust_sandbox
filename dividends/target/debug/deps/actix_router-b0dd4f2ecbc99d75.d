@@ -1,0 +1,12 @@
+/home/eric/rust_sandbox/dividends/target/debug/deps/actix_router-b0dd4f2ecbc99d75.rmeta: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/home/eric/rust_sandbox/dividends/target/debug/deps/libactix_router-b0dd4f2ecbc99d75.rlib: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/home/eric/rust_sandbox/dividends/target/debug/deps/actix_router-b0dd4f2ecbc99d75.d: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs:
